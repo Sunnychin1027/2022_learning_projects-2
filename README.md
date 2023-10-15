@@ -1,2 +1,2 @@
 # 2022_learning_projects-2
-These are the projects where I've accumulated my programming skills
+mydrawing.py is using the GOval and GRect within the campy package to draw a cat in a bathtub.
